@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+}
+
+.profile:hover{
+    transform: scale(1);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.skill:hover{
+    transform: scale(1.1);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.skills:hover{
+    transform: scale(1.01);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.card{
+    border-radius: 10px;
+}
+
+.task{
+    height: 150px;
+    width: 150px;
+    line-height: 110px;
+    border: 20px solid white;
+    border-radius: 100px;
+    border-color: white white yellow yellow;
+}
+
+.buttom{
+    height: 400px;
+    width: auto;
+}
